@@ -7,6 +7,9 @@
     <a target='_blank' href="https://linkedin.com/in/teleslucas">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+    <a target='_blank' href="https://www.duolingo.com/profile/souzateles">
+        <img src='https://img.shields.io/badge/duolingo-7ac70c?style=for-the-badge&logo=duolingo&logoColor=white'>
+    </a>
 </div>
 
 <!--
